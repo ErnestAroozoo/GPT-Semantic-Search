@@ -161,7 +161,7 @@ text-decoration: none;
 }
 </style>
 <div class="footer">
-<p>Made by <a href='https://github.com/ErnestAroozoo' target='_blank'>Ernest Aroozoo</a> | <a href='https://github.com/ErnestAroozoo/CoverLetterGenerator.net' target='_blank'>View on GitHub</a></p>
+<p>Made by <a href='https://github.com/ErnestAroozoo' target='_blank'>Ernest Aroozoo</a> | <a href='https://github.com/ErnestAroozoo/GPT-Semantic-Search' target='_blank'>View on GitHub</a></p>
 </div>
 """
 st.markdown(add_footer_style2, unsafe_allow_html=True)
