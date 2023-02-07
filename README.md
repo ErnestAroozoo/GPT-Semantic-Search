@@ -4,6 +4,8 @@
 
 GPT Semantic Search is a tool that uses OpenAI's GPT-3 to perform semantic search on text documents. Given a set of text documents, the tool will summarize each document and allow the user to ask questions about the summarized information. The answers are generated using OpenAI's GPT-3 language model.
 
+![](https://github.com/ErnestAroozoo/GPT-Semantic-Search/blob/master/GPT%20Semantic%20Search.png)
+
 ## Getting Started
 
 1. Install the necessary dependencies: `streamlit`, `openai`, and `python-dotenv`.
